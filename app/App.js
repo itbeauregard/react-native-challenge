@@ -3,18 +3,12 @@ import {
   StyleSheet
 } from 'react-native';
 
+import HomeScreen from "./components/HomeScreen";
+
 const App: () => React$Node = () => {
-
   return (
-    <>
-    </>
+    <HomeScreen />
   );
-
-
 };
-
-const styles = StyleSheet.create({
-
-});
 
 export default App;
