@@ -8,7 +8,7 @@ I ran in a couple issues with running a mobile emulator on the current laptop I'
 
 I pushed directly to `master` because it's just me here. 
 
-I used the fonts included in the original code, however, the weights didn't differentiate from "bold" to "medium" to "light"--not sure where I went wrong--so I just used the `fontWeight` property to modify to match the designs. 
+I used the fonts included in the original code, however, the weights didn't differentiate from "bold" to "medium" to "light"--not sure where I went wrong--so I just used the `fontWeight` property to modify to match the designs the best I could. 
 
 Here are some screenshots of my final product on iPhone SE:
 
