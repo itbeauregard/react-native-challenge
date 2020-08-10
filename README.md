@@ -10,6 +10,8 @@ I pushed directly to `master` because it's just me here.
 
 I used the fonts included in the original code, however, the weights didn't differentiate from "bold" to "medium" to "light"--not sure where I went wrong--so I just used the `fontWeight` property to modify to match the designs the best I could. 
 
+**Overall, this was a fun and fairly straight-forward project! =)**
+
 Here are some screenshots of my final product on iPhone SE:
 
 ![screenshots](screenshotsTakeTwo.png "Screenshots")
