@@ -12,7 +12,7 @@ I used the fonts included in the original code, however, the weights didn't diff
 
 Here are some screenshots of my final product on iPhone SE:
 
-![screenshots](screenshots.png "Screenshots")
+![screenshots](screenshotsTakeTwo.png "Screenshots")
 
 
 
